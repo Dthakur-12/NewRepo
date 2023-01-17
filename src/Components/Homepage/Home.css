@@ -1,0 +1,161 @@
+/* .bttn .signupmt-2 {position: fixed; top: 50px; right: 0px;
+    padding: 27px 59px 37px 30px;
+    width: 300px;
+    font-weight: bold;
+    border-radius: 50px 0px 0px 50px;
+    height: 84px;
+    background-color: #fff;
+    color: blue;
+    border: 1px solid #E0E0E0;
+    } */
+
+.mylogo{
+    padding-top: 10px;
+}
+   
+       
+ .type {
+ color: Black;
+  font-size: 50px;
+}
+    .link a {
+        margin-right: 20px;
+    }
+
+    .social {
+        padding-top: 50px;
+
+    }
+
+    .griid {
+        margin-top: -70px;
+    }
+
+    .griid img {
+        height: auto;
+        width: 83%;
+    }
+
+    p.call {
+        text-align: right;
+    }
+
+    .fbtn {
+        padding-top: 15px;
+        FONT-WEIGHT: 100;
+
+    }
+
+    p.link a {
+        color: #000;
+    }
+
+    /* p.call a {
+            color: #000;
+        } */
+    span a {
+        color: blue !important;
+    }
+
+    .login {
+        color: blue;
+    }
+
+    .login:hover {
+        color: #fff !important;
+    }
+
+
+    span.ice {
+        float: right;
+    }
+
+    .bttn .login {
+        position: fixed;
+        top: 24px;
+        right: 0px;
+        padding: 19px 59px 37px 30px;
+        width: 303px;
+        font-weight: bold;
+        border-radius: 50px 0px 0px 50px;
+        height: 65px;
+        background-color: #fff;
+        color: blue;
+        border: 1px solid #E0E0E0;
+
+    }
+
+    .bttn .login a {
+        text-decoration: none;
+        color: #1631BF;
+    }
+
+    .signupm {
+        position: fixed;
+        top: 104px;
+        right: 0px;
+        padding: 13px 59px 37px 30px;
+        width: 303px;
+        font-weight: bold;
+        border-radius: 50px 0px 0px 50px;
+        height: 65px;
+        background-color: #fff;
+        color: blue;
+        border: 1px solid #E0E0E0;
+    }
+
+    .signupm a {
+        text-decoration: none;
+        color: #1631BF;
+
+    }
+
+    .type_two{
+        padding-top: 25px;
+        font-size: 15px;
+
+    }
+
+@media screen and (max-width:767px) {
+    .type {
+        color: Black;
+         font-size: 30px;
+       }
+       .type_two{
+        padding-top: 20px;
+        font-size: 15px;
+
+    }
+    .bttn .login {
+        position: fixed;
+        top: 18px;
+        right: 0px;
+          padding: 9px 0px 4px 10px;  
+        width: 155px;
+        font-weight: bold;
+        border-radius: 50px 0px 0px 50px;
+        height: 42px;
+        background-color: #fff;
+        color: blue;
+        border: 1px solid #E0E0E0;
+        font-size: 12px;
+    }
+    .signupm{
+        position: fixed;
+        top: 75px;
+        right: 0px;
+          padding: 9px 0px 4px 10px;  
+        width: 168px;
+        font-weight: bold;
+        border-radius: 50px 0px 0px 50px;
+        height: 42px;
+        background-color: #fff;
+        color: blue;
+        border: 1px solid #E0E0E0;
+        font-size: 12px;
+
+    }
+    .griid {
+    margin-top: -5px;
+}
+}

@@ -1,0 +1,66 @@
+.logofive {
+    padding: 32px 10px 31px 26px;
+}
+.paragraphone 
+{
+    
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 160%;
+    color: #fff;
+}
+
+.paragraphtwo{
+   
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 160%;
+    color: #fff;
+}
+.paragraphthree{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 67px;
+    line-height: 160%;
+    color: #fff;
+}
+ .mail {
+  
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 160%;
+    color: #fff;
+}
+.mail p {
+    padding-left: 10px;
+}
+.mailtwo {
+  
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 160%;
+    color: #fff;
+}
+.mailtwo p {
+    padding-left: 10px;
+}
+.mailthree{
+ 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 160%;
+    color: #fff;
+
+}
+.mailthree p {
+    padding-left: 10px;
+}
+.contentwhole{
+ 
+        padding: 118px 0px 12px 5px;
+    
+}

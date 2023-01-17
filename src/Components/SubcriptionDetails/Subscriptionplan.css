@@ -1,0 +1,113 @@
+
+.paragraphmain {
+    margin: 395px 7px 6px 31px;
+}
+.paragraphmain h1 {
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #000000;
+}
+.paragraphmain h3 {
+    font-weight: 900;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #141adb;
+}
+.paragraphmain p {
+    font-weight: 500;
+    font-size: 17px;
+    color: #333333;
+}
+.logorow {
+    padding: 22px 5px 5px 17px;
+}
+
+
+.idlle p{
+    font-weight: 700;
+font-size: 13px;
+line-height: 30px;
+letter-spacing: 0.01em;
+color: #333333;
+}
+
+.rowone, .rowtwo, .rowthree, .rowfour {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 30px;
+    color: #000000;
+}
+.midlle {
+    padding: 38px 0px 5px 6px;
+}
+.midlle h3 {
+    font-weight: 800;
+font-size: 12px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: 1px;
+text-transform: uppercase;
+
+/* Gray 1 */
+
+color: #333333;
+}
+.midlle p {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0.01em;
+    color: #828282;
+}
+.myuse{
+        box-shadow: 2px 2px 2px 2px rgb(193 166 166 / 25%);
+        padding: 10px 7px;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        color: #828282;
+    }
+    .midlle h6 {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        color: #828282;
+        padding-top: 11px;
+    }
+    .textify {
+        padding: 8px 19px;
+        /* color: gray; */
+    }
+    .app{
+        color: grey;
+    }
+    .fi {
+        box-shadow: 2px 2px 2px 2px rgb(193 166 166 / 25%);
+        padding: 10px 19px;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        color: #828282;
+    }
+    .fitwo {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 18px;
+        color: #828282;
+        padding: 4px 104px 7px 22px;
+        font-family: 'Poppins';
+    }
+    .buttongrp {
+        margin: 510px 10px 20px 261px;
+        padding: 4px 0px 11px 0px;
+    }
+.whtsapp {
+    position: absolute;
+    top: 10px;
+    right: 120px;
+}

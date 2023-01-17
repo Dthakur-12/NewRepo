@@ -1,0 +1,52 @@
+
+.textone {
+    /* font-family: 'Inter'; */
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 29px;
+    text-align: right;
+    color: #000000;
+    padding: 18px 163px 10px 3px;
+}
+.texttwo {
+    
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center;
+    color: #333333;
+}
+.otpone {
+    margin: 17px 240px 88px 230px;
+    padding: 0px 87px 4px 0px;
+}
+.fbtnfour button{
+
+    
+        background-color: blue;
+        border-radius: 30px;
+        font-size: 13px;
+        padding: 11px 53px;
+        margin: -113px 80px 7px 243px;
+    
+}
+
+.resend {
+   
+    font-family: 'Inter';
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 30px;
+    text-align: center;
+    color: #4F4F4F;
+    padding: -2px 2px 3px 13px;
+    margin-top: -32px;
+}
+    .pic {
+        text-align: center;
+        padding-top: 55px;
+    }
+    
+    

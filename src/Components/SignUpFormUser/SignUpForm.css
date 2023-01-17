@@ -1,0 +1,178 @@
+.logothreewhite {
+padding: 5px
+
+}
+
+.pone{
+   
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #000000;
+}
+.pallsign{
+    margin-top:385px;
+    padding: 10px;
+}
+    
+
+
+.ptwo{
+   
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #1631BF;
+}
+.pthree {
+   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 30px;
+    color: #333333;
+}
+.formfirsttwo {
+    
+    margin-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #333333;
+}
+.fbtntwo {
+    padding-top: 0px;
+    FONT-WEIGHT: 100;
+    margin-left: 654px;
+    margin-top: -34px;
+
+}
+
+.fbtntwo:hover{
+    color:black;
+    background-color: whitesmoke;
+}
+
+.fbtnthree {
+    padding-top: 0px;
+    FONT-WEIGHT: 100;
+    margin-left: 464px;
+    margin-top: -40px;
+}
+.btnfirste{
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 13px;
+    padding:10px 45px;
+}
+.btnseconde{
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 13px;
+    padding:10px 45px;
+
+}
+
+
+
+@media screen and (max-width:767px){
+    .fbtntwo {
+        padding-top: 0px;
+        margin-left: 254px;
+        margin-top: 0px;
+    }   
+    .fbtnthree {
+        padding-top: 0px;
+        margin-left: 6px;
+        margin-top: -40px;
+    }
+
+}
+@media screen and (max-width:424px){
+    .fbtntwo {
+        padding-top: 0px;
+        margin-left: 199px;
+        margin-top: 0px;
+    }   
+    .fbtnthree {
+        padding-top: 0px;
+        margin-left: 6px;
+        margin-top: -40px;
+    }
+
+}
+@media screen and (max-width: 374px){
+.fbtntwo {
+    padding-top: 0px;
+    margin-left: 152px;
+    margin-top: 0px;
+}
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:1023px){
+    .fbtnthree {
+        padding-top: 0px;
+        FONT-WEIGHT: 100;
+        margin-left: 0px;
+        margin-top: -40px;
+    }
+    .fbtntwo {
+        padding-top: 0px;
+        FONT-WEIGHT: 100;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+    .btnfirste {
+        background-color: blue;
+        border-radius: 30px;
+        font-size: 13px;
+        padding: 9px 20px;
+    }
+    .btnseconde {
+        font-size: 13px;
+        padding: 10px 30px;
+    }
+    
+}
+
+@media only screen and (min-width:1024px) and (max-width:1199px){
+    .fbtnthree {
+        padding-top: 0px;
+        FONT-WEIGHT: 100;
+        margin-left: 325px;
+        margin-top: -39px;
+    }
+    .fbtntwo {
+        padding-top: 0px;
+        FONT-WEIGHT: 100;
+        margin-left: 474px;
+        margin-top: -34px;
+    }
+}
+@media only screen and (min-width:1200px) and (max-width:1399px){
+    .fbtnthree {
+        padding-top: 0px;
+        FONT-WEIGHT: 100;
+        margin-left: 398px;
+        margin-top: -39px;
+    }
+    .fbtntwo {
+        padding-top: 0px;
+        FONT-WEIGHT: 100;
+        margin-left: 578px;
+        margin-top: -34px;
+    }
+}
+
+
+

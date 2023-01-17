@@ -1,0 +1,52 @@
+  
+  label {
+    font-weight: bold;
+    display: flex;
+    margin-bottom: 3px;
+  }
+  
+  input + label {
+    font-weight: bold;
+    display: inline-flex;
+    margin-right: 20px;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='password'],
+  textarea,
+  select {
+    box-shadow: 5px gray; 
+    display: block;
+    /* width: 400px; */
+    /* padding: 6px 12px; */
+    font-size: 14px;
+    line-height: 1.42857143;
+     color: #555; 
+    /* background-color: #fff; */
+    background-image: none;
+    /* border: 1px solid #ccc; */
+    /* border-radius: 4px; */
+    /* margin-bottom: 20px; */
+    height: 35px;
+  }
+  
+  .form-control {
+    margin-bottom: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  .sbtn {
+    text-align: center;
+    
+    color: red;
+  }
+  /* .sbtntwo {
+    text-align: center;
+    
+    color: red;
+  } */
+
+  

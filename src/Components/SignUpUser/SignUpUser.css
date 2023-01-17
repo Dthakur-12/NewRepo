@@ -1,0 +1,149 @@
+
+  
+  .formtwofirst{
+    /* margin-left: 227px;
+    margin-top: 12px; */
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #333333;
+    padding-bottom: 5px;
+    }
+  
+
+  .bggroundtwo {padding: 50px;}
+  .logotwowhite{
+    margin: 40px 50px 18px 400px;
+}
+.textgroup{
+position:relative;
+font-weight: 800;
+font-size: 40px;
+line-height: 50px;
+align-items: center;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+color: #1631BF;
+}
+  
+.textgrouptwo{
+position: relative;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+color: #333333;
+}
+
+.textgroupthree {
+position: relative;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+
+color: #000000;
+}
+
+.signupbtnt{
+  background-color: blue;
+  border-radius: 60px;
+  font-size: 16px;
+  height: 50px;
+  width: 100%;
+  padding: 2px 98px;
+}
+
+
+.alltextnew {
+ 
+  margin-top: 415px;
+  padding: 13px;
+}
+.bttn3 {
+  font-size: 22px;
+  position: fixed;
+  top: 6px;
+  left: 0;
+  padding: 5px 23px 37px 30px;
+  width: 120px;
+  font-weight: bold;
+  border-radius: 0px 50px 50px 0px;
+  height: 47px;
+  background-color: #fff;
+  color: blue;
+  border: 1px solid #E0E0E0;
+}
+
+
+.bttn3 a{
+    text-decoration: none;
+    color: #1631BF;
+}
+
+@media screen and (min-width:768px){
+  .logotwowhite {
+    margin:0%;
+    padding-top: 10px;
+    /* margin: 40px 50px 18px 400px; */
+}
+}
+@media screen and (max-width:767px){
+  .logotwowhite{
+    margin: 0%;
+
+  }
+  .signupbtnt {
+    padding: 3px 90px;
+}
+.bttn3 {
+  font-size: 22px;
+  position: fixed;
+  top: 6px;
+  left: 256px;
+  padding: 5px 23px 37px 30px;
+  width: 120px;
+  font-weight: bold;
+  border-radius: 50px 0px 0px 50px;
+  height: 47px;
+  background-color: #fff;
+  color: blue;
+  border: 1px solid #E0E0E0;
+  z-index: 989;
+}
+.bggroundtwo {
+  padding: 10px;
+}
+  
+}
+
+@media only screen and (min-width:768px) and (max-width:1023px)
+{
+  .bggroundtwo {
+    padding: 0px;
+}
+.bttn3 {
+  font-size: 22px;
+  position: fixed;
+  top: 6px;
+  left: 624px;
+  padding: 5px 23px 37px 30px;
+  width: 120px;
+  font-weight: bold;
+  border-radius: 50px 0px 0px 50px;
+  height: 47px;
+  background-color: #fff;
+  color: blue;
+  border: 1px solid #E0E0E0;
+  z-index: 989;
+}
+
+}
+
+

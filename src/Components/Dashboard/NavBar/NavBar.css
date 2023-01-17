@@ -1,0 +1,33 @@
+.navibar{
+    list-style: none;
+}
+.navibar li {
+    padding: 0px 34px;
+    margin-bottom: 0px;
+}
+.navbar{
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    /* position: fixed; */
+}
+
+.navbar-brand {
+    /* padding-top: var(--bs-navbar-brand-padding-y); */
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    /* font-size: var(--bs-navbar-brand-font-size); */
+    color: var(--bs-navbar-brand-color);
+    text-decoration: none;
+    white-space: nowrap;
+}
+.droptop{position: relative;}
+.drpdwn{
+    position: absolute;
+    left: 26px;
+    list-style: none;
+}
+
+.drpdwnn{
+    position: relative;
+    left: -15px;
+}
+

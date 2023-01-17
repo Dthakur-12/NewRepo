@@ -1,0 +1,142 @@
+.logothreewhitead {
+    margin: 11px 112px 5px 0px;
+}
+
+.ponee{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #000000;
+}
+    
+
+
+.ptwoe{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #1631BF;
+}
+.pthreee {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 30px;
+    color: #333333;
+}
+.formfirsttwoe {
+    margin-left: 0px;
+    margin-top: 21px;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #333333;
+}
+.fbtntwoeee {
+    padding-top: 0px;
+    FONT-WEIGHT: 100;
+    margin-left: 615px;
+    margin-top: -34px;
+
+}
+
+
+.fbtnthreee {
+    padding-top: 0px;
+    FONT-WEIGHT: 100;
+    margin-left: 480px;
+    margin-top: -40px;
+}
+.indexes{
+    z-index: 99999;
+}
+.full_text{
+    margin-top: 450px;
+
+}
+.assign_btn{
+    background-color: blue;
+        border-radius: 30px;
+        font-size: 13px;
+        padding:10px 38px;
+}
+.assign_btntwo{
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 13px;
+    padding:10px 45px;
+
+}
+
+
+@media screen and (max-width:767px){
+    .fbtntwoeee {
+        padding-top: 0px;
+        margin-left: 260px;
+        margin-top: 0px;
+    }   
+    .fbtnthreee {
+        padding-top: 0px;
+        margin-left: 6px;
+        margin-top: -40px;
+    }
+}
+@media screen and (max-width:424px){
+    .fbtntwoeee {
+        padding-top: 0px;
+        margin-left: 216px;
+        margin-top: 0px;
+    }   
+
+}
+@media screen and (max-width:374px){
+    .fbtntwoeee {
+        padding-top: 0px;
+        margin-left: 150px;
+        margin-top: 0px;
+    }   
+    
+}
+@media screen and (min-width:1024px) and (max-width:1199px){
+    .fbtntwoeee {
+        padding-top: 0px;
+        margin-left: 238px;
+        margin-top: 0px;
+    }
+    .fbtnthreee {
+
+        margin-left: 8px;
+    }   
+    
+}
+@media screen and (min-width:1400px){
+    .fbtntwoeee {
+        padding-top: 0px;
+        margin-left: 386px;
+        margin-top: 0px;
+    }  
+    .fbtnthreee {
+        margin-left: 5px;
+    } 
+    
+}
+
+@media screen and (min-width:768px) and (max-width:1023px){
+    .fbtntwoeee {
+       
+        margin-left: 144px;
+        margin-top: 0px;
+    }  
+    .fbtnthreee {
+        margin-left: 5px;
+    } 
+    
+}
+

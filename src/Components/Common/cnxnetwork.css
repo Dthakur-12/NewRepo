@@ -1,0 +1,81 @@
+.contnt h2 {
+    color:blue;
+    text-align: left;
+    font-weight: 700;
+}
+.indcator b{
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 900;
+    color: green;
+
+
+}
+
+status-indicator[active] {
+    background-color: green !important;
+}
+.timp{
+    font-weight: 600;
+font-size: 12px;
+line-height: 24px;
+
+letter-spacing: 0.01em;
+text-transform: capitalize;
+
+color: #828282;
+}
+.timptwo{
+    font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+color: #333333;
+}
+.feat h3{
+    font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+.feattwo h4{
+    font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+text-transform: uppercase;
+color: #000000;
+}
+.feattwo p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333333;;
+}
+.featthree h4{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.featthree p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333333;;
+}
+.featfour h4 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.featfour p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333333;;
+}
+.advisornetwork{
+    width: 100%;
+}
